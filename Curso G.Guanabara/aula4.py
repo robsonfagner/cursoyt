@@ -1,5 +1,5 @@
-#print("Ola Mundo")
-#print(9*8)
+print("Ola Mundo")
+print(9*8)
 
 #Utilizando Variavéis com letra minusculas, objeto é mais que variavel
 
