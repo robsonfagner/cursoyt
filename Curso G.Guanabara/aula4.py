@@ -1,6 +1,6 @@
 
 # Esta seção onde vem os primeiros comandos de estudo da Lingua
-print("Ola Mundo")
+print("Feliz Natal")
 print(9*8)
 
 #Utilizando Variavéis com letra minusculas, objeto é mais que variavel
