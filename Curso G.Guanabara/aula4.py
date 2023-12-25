@@ -1,3 +1,5 @@
+
+# Esta seção onde vem os primeiros comandos de estudo da Lingua
 print("Ola Mundo")
 print(9*8)
 
